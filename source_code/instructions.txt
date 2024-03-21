@@ -1,4 +1,8 @@
-This folder contains 2 Jupiter notebooks.
+The source code contains Github's Access Token, which will get denied and revoked when uploaded to Github.
+Hence the source code will be stored on Google Drive, available at:
+
+https://drive.google.com/drive/folders/1vtI14ij35TsQE_JCbOQDDmZz7hulJ033?usp=sharing
+
 The "Exchange_Rate_Prediction_Models_Training_Notebook.ipynb" file is the source code of the Model-training notebook
 The "Exchange_Rate_Prediction_Demo_Web_Notebook.ipynb" file is the source code of the Demo web notebook
 
