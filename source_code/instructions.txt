@@ -1,0 +1,16 @@
+This folder contains 2 Jupiter notebooks.
+The "Exchange_Rate_Prediction_Models_Training_Notebook.ipynb" file is the source code of the Model-training notebook
+The "Exchange_Rate_Prediction_Demo_Web_Notebook.ipynb" file is the source code of the Demo web notebook
+
+* How to use the program:
+
+[Download and open the desired notebook on Google Colab]
+
+For basic usage, you only need to run the Demo web notebook to try the program, as trained models are available.
+- Choose input medthod (Sample data files for the "Upload files" method is avalable in the "Testing Data" folder)
+- Input data for prediction and hit the "Execute Prediction" on the demo web (For "Manual Input" option you need to click the "Check Format" button and get approved beforehand)
+- Wait for the models to generated predictions and view the outputs of all 5 models at the Output Dataframes
+
+If you wish to see how the Training-model notebook work, execute the notebook
+Note that the notebook can take from 30 minutes to 1 hour to complete due to the search of optimal parameters
+By the end of the notebook, if there is no change in the result models (chosen parameters) compared to the models available in the "trained_models" folder), nothing will be updated.
