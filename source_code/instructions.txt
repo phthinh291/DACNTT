@@ -1,5 +1,5 @@
 The source code contains Github's Access Token, which will get denied and revoked when uploaded to Github.
-Hence the source code will be stored on Google Drive, available at:
+Hence, the source code will be stored on Google Drive, available at:
 
 https://drive.google.com/drive/folders/1vtI14ij35TsQE_JCbOQDDmZz7hulJ033?usp=sharing
 
