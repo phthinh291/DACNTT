@@ -15,7 +15,7 @@ Test Data location: DACNTT/testing_data
 
 Source code location: DACNTT/source_code/instructions.txt and follow the Google Drive source code link in the instructions file
 
-Or access directly at:
+Or access directly at **(Available for Colab user with @tdtu.edu.vn email only)**:
 
 * Demo web notebook 
 https://colab.research.google.com/drive/1GVyVRWL3Y7OWRWiD1upaD9O8FTddQ8Bw?usp=sharing
@@ -24,3 +24,8 @@ Execute the notebook to run the demo web
 
 * Model-training notebook
 https://colab.research.google.com/drive/1_6JZx_WfI4O7cnQipn3BuKQ3xuNxRkqJ?usp=sharing
+
+**For user with email outside of TDTU**, access the demo web notebook using this link:
+https://colab.research.google.com/drive/1TFVVf0Hoss3aO8NRfXWMmC8H5rGu6Tge?usp=sharing
+
+The model-training notebook will not be provided.
