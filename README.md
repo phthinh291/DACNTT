@@ -13,9 +13,11 @@ Training Data location: DACNTT/training_data
 
 Test Data location: DACNTT/testing_data
 
+**For user with @tdtu.edu.vn email:**
+
 Source code location: DACNTT/source_code/instructions.txt and follow the Google Drive source code link in the instructions file
 
-Or access directly at **(Available for Colab user with @tdtu.edu.vn email only)**:
+Or access directly at:
 
 * Demo web notebook 
 https://colab.research.google.com/drive/1GVyVRWL3Y7OWRWiD1upaD9O8FTddQ8Bw?usp=sharing
