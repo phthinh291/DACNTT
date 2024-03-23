@@ -28,6 +28,6 @@ Execute the notebook to run the demo web
 
 **For user with email outside of TDTU:**:
 
-Access the [Demo web notebook](https://colab.research.google.com/drive/1TFVVf0Hoss3aO8NRfXWMmC8H5rGu6Tge?usp=sharing)
+* [Demo web notebook](https://colab.research.google.com/drive/1TFVVf0Hoss3aO8NRfXWMmC8H5rGu6Tge?usp=sharing)
 
 _The model-training notebook will not be provided for regular user._
