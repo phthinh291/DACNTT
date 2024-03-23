@@ -1,5 +1,4 @@
-# DACNTT
-**Exchange Rate Prediction Project**
+# DACNTT - Exchange Rate Prediction Project
 
 This project focuses on training 5 Machine Learning models to predict the following currency exchange rates: [USD-VND, USD-EUR, EUR-VND] with 4 input features: [Price, Open, High, Low]
 
