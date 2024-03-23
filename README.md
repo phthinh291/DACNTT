@@ -3,7 +3,7 @@
 
 This project focuses on training 5 Machine Learning models to predict the following currency exchange rates: [USD-VND, USD-EUR, EUR-VND] with 4 input features: [Price, Open, High, Low]
 
-The output is expected to be the 'Price' value of the following day
+The output is the predicted 'Price' value of day N+1, given the inputs are the required features of day N.
 
 Models selection: Support Vector Regressor, K-Neighbors Regressor, Random Forest Regressor, Extreme Gradient Boosting Regressor, Multilayer Perceptron Regressor (Deep Learning)
 
